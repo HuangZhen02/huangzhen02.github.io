@@ -31,7 +31,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
 
 - **LIMO: Less is More for Reasoning**
   
-  Yixin Ye*, **Zhen Huang***, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu†
+  Yixin Ye\*, **Zhen Huang**\*, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu†
   
   *arXiv preprint. 2025.*
   
