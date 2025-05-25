@@ -72,7 +72,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
 
 - **O1 Replication Journey – Part 3: Inference-time Scaling for Medical Reasoning**
   
-  Zhongzhen Huang*, Gui Geng*, Shengyi Hua*, **Zhen Huang***, Haoyang Zou*, Shaoting Zhang†, Pengfei Liu†, Xiaofan Zhang†
+  Zhongzhen Huang\*, Gui Geng\*, Shengyi Hua\*, **Zhen Huang**\*, Haoyang Zou\*, Shaoting Zhang†, Pengfei Liu†, Xiaofan Zhang†
   
   *arXiv preprint. 2025.*
   
@@ -80,7 +80,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
 
 - **O1 Replication Journey – Part 2: Surpassing O1-preview through Simple Distillation (Big Progress or Bitter Lesson?)**
   
-  **Zhen Huang***, Haoyang Zou*, Xuefeng Li*, Yixiu Liu*, Yuxiang Zheng*, Ethan Chern*, Shijie Xia*, Yiwei Qin, Weizhe Yuan, Pengfei Liu†
+  **Zhen Huang**\*, Haoyang Zou\*, Xuefeng Li\*, Yixiu Liu\*, Yuxiang Zheng\*, Ethan Chern\*, Shijie Xia\*, Yiwei Qin, Weizhe Yuan, Pengfei Liu†
   
   *arXiv preprint. 2024.*
   
@@ -88,7 +88,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
 
 - **O1 Replication Journey: A Strategic Progress Report – Part 1**
   
-  Yiwei Qin*, Xuefeng Li*, Haoyang Zou*, Yixiu Liu*, Shijie Xia*, **Zhen Huang**, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu†
+  Yiwei Qin\*, Xuefeng Li\*, Haoyang Zou\*, Yixiu Liu\*, Shijie Xia\*, **Zhen Huang**, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu†
   
   *arXiv preprint. 2024.*
   
