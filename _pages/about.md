@@ -36,14 +36,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
   *arXiv preprint. 2025.*
   
   [[Paper](https://arxiv.org/pdf/2502.03387)][[Code](https://github.com/GAIR-NLP/LIMO)][[Model](https://huggingface.co/GAIR/LIMO)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/LIMO)][[Featured by AK](https://x.com/_akhaliq/status/1887372529112686810)][[机器之心](https://mp.weixin.qq.com/s/c62TWyepruRYf_1xHFKw4g)][[Talk (Chinese)](https://www.bilibili.com/video/BV1y3PeeMEmq/?share_source=copy_web&vd_source=18acb84f1f430e0cde1dfee88e7b1879)]
-
-- **O1 Replication Journey – Part 3: Inference-time Scaling for Medical Reasoning**
   
-  Zhongzhen Huang*, Gui Geng*, Shengyi Hua*, **Zhen Huang***, Haoyang Zou*, Shaoting Zhang†, Pengfei Liu†, Xiaofan Zhang†
-  
-  *arXiv preprint. 2025.*
-  
-  [[Paper](https://arxiv.org/pdf/2501.06458)][[Featured by AK](https://x.com/_akhaliq/status/1879021571870007669)][[ScienceAI](https://mp.weixin.qq.com/s/-e3V9TwToGK71530icTeQg)]
 
 - **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**
   
@@ -61,21 +54,6 @@ My academic and research interests deeply root in Artificial Intelligence, parti
   
   [[Paper](https://arxiv.org/pdf/2406.16772)][[机器之心](https://mp.weixin.qq.com/s/YdGPDE5Jgp3vnWCxrwMsgA)]
 
-- **O1 Replication Journey – Part 2: Surpassing O1-preview through Simple Distillation (Big Progress or Bitter Lesson?)**
-  
-  **Zhen Huang***, Haoyang Zou*, Xuefeng Li*, Yixiu Liu*, Yuxiang Zheng*, Ethan Chern*, Shijie Xia*, Yiwei Qin, Weizhe Yuan, Pengfei Liu†
-  
-  *arXiv preprint. 2024.*
-  
-  [[Paper](https://arxiv.org/pdf/2411.16489)][[Featured by AK](https://x.com/_akhaliq/status/1861276718771601739)][[机器之心](https://mp.weixin.qq.com/s/bJc_hSrXsUgrzAfSxAoYoA)]
-
-- **O1 Replication Journey: A Strategic Progress Report – Part 1**
-  
-  Yiwei Qin*, Xuefeng Li*, Haoyang Zou*, Yixiu Liu*, Shijie Xia*, **Zhen Huang**, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu†
-  
-  *arXiv preprint. 2024.*
-  
-  [[Paper](https://arxiv.org/pdf/2410.18982)][[机器之心](https://mp.weixin.qq.com/s/ZO_Rv98OakPuBaZl9Tw5VA)]
 
 - **Sequential Recommendation with Diffusion Models**
   
