@@ -124,6 +124,4 @@ My academic and research interests deeply root in Artificial Intelligence, parti
 
 # 🌐 Services
 
----
-
 - Reviewer: NeurIPS2025
