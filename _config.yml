@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhen Huang"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "Undergrad@Soochow Univeristy | Natural Language Processing & Large Language Models"
   location         : "Suzhou, China"
   employer         : "Soochow University"
