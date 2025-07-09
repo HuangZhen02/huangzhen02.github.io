@@ -35,7 +35,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
   
   Yixin Ye\*, **Zhen Huang**\*, Yang Xiao, Ethan Chern, Shijie Xia, Pengfei Liu†
   
-  *COLM 2025*
+  ***COLM 2025***
   
   [[Paper](https://arxiv.org/pdf/2502.03387)][[Code](https://github.com/GAIR-NLP/LIMO)][[Model](https://huggingface.co/GAIR/LIMO)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/LIMO)][[Featured by AK](https://x.com/_akhaliq/status/1887372529112686810)][[机器之心](https://mp.weixin.qq.com/s/c62TWyepruRYf_1xHFKw4g)][[Talk (Chinese)](https://www.bilibili.com/video/BV1y3PeeMEmq/?share_source=copy_web&vd_source=18acb84f1f430e0cde1dfee88e7b1879)]
   
