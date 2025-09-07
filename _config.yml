@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhen Huang's Homepage"
-description              : "Undergrad@Soochow Univeristy"
+# description              : "Undergrad@Soochow Univeristy"
 repository               : "HuangZhen02/HuangZhen02.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ author:
   name             : "Zhen Huang"
   avatar           : "images/profile.jpg"
   bio              : # "Undergrad@Soochow Univeristy"
-  location         : "Suzhou, China"
-  employer         : "Soochow University"
+  location         : "Shanghai, China"
+  employer         : "Fudan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=NMUkhPoAAAAJ"
   email            : "benjamin.z.huang.02@gmail.com"

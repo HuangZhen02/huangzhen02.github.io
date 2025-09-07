@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm **Zhen Huang ("黄臻" in Chinese)**, an incoming Ph.D. student at Fudan University, under the supervision of [Pengfei Liu](http://pfliu.com/) (primary advisor, affiliated with [GAIR Lab](https://plms.ai/) @ SJTU) and [Xipeng Qiu](https://xpqiu.github.io/) (affiliated with [FudanNLP](https://nlp.fudan.edu.cn/) @ FDU). I received my Bachelor's degree from the [School of Computer Science and Technology at Soochow University](https://scst.suda.edu.cn/), where I spent four wonderful and fantastic years.
+I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan University, under the supervision of [Pengfei Liu](http://pfliu.com/) (primary advisor, affiliated with [GAIR Lab](https://plms.ai/) @ SJTU) and [Xipeng Qiu](https://xpqiu.github.io/) (affiliated with [FudanNLP](https://nlp.fudan.edu.cn/) @ FDU). I received my Bachelor's degree from the [School of Computer Science and Technology at Soochow University](https://scst.suda.edu.cn/), where I spent four wonderful and fantastic years.
 
 My academic and research interests deeply root in Artificial Intelligence, particularly in the realms of **Natural Language Processing, Large Language Models, and Generative AI**. My research focuses on enhancing the reasoning capabilities of large language (vision) models, their reliable evaluation (e.g. benchmarking) as well as their potential applications and empowerment in scientific domains (e.g. mathematics).
 
