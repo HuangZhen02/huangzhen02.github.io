@@ -19,7 +19,7 @@ redirect_from:
 
 I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan University, under the supervision of [Pengfei Liu](http://pfliu.com/) (primary advisor, affiliated with [GAIR Lab](https://plms.ai/) @ SJTU) and [Xipeng Qiu](https://xpqiu.github.io/) (affiliated with [FudanNLP](https://nlp.fudan.edu.cn/) @ FDU). I received my Bachelor's degree from the [School of Computer Science and Technology at Soochow University](https://scst.suda.edu.cn/), where I spent four wonderful and fantastic years.
 
-My academic and research interests deeply root in Artificial Intelligence, particularly in the realms of **Natural Language Processing, Large Language Models, and Generative AI**. My research focuses on enhancing the reasoning capabilities of large language (vision) models, their reliable evaluation (e.g. benchmarking) as well as their potential applications and empowerment in scientific domains (e.g. mathematics).
+
 
 # 🔥 News
 
@@ -27,7 +27,7 @@ My academic and research interests deeply root in Artificial Intelligence, parti
 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024 on LLM&LMM evaluation - "OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI".
 
-# 📝 Publications 
+# 📝 Publications (Selected)
 
 ( * : equal contribution,   † :  corresponding author )
 
@@ -48,53 +48,6 @@ My academic and research interests deeply root in Artificial Intelligence, parti
   
   [[Paper](https://arxiv.org/pdf/2406.12753)][[Code](https://github.com/GAIR-NLP/OlympicArena)][[Homepage](https://gair-nlp.github.io/OlympicArena/)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/OlympicArena)][ [🤗 Competition](https://huggingface.co/spaces/GAIR/OlympicArenaSubmission)][[Featured by AK](https://x.com/_akhaliq/status/1803265217826107588)][[机器之心](https://mp.weixin.qq.com/s/M16i34Vejq9DruMvfYsOtA)][[量子位](https://mp.weixin.qq.com/s/bhm84ToAsFc1GrjWbqJMYg)]
 
-- **OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?**
-  
-  **Zhen Huang**, Zengzhi Wang, Shijie Xia, Pengfei Liu†
-  
-  *arXiv preprint. 2024.  (technical report)*
-  
-  [[Paper](https://arxiv.org/pdf/2406.16772)][[机器之心](https://mp.weixin.qq.com/s/YdGPDE5Jgp3vnWCxrwMsgA)]
-
-
-- **Sequential Recommendation with Diffusion Models**
-  
-  Hanwen Du, Huanhuan Yuan, **Zhen Huang**, Pengpeng Zhao†, Xiaofang Zhou
-  
-  *arXiv preprint. 2023.* 
-  
-  [[Paper](https://arxiv.org/pdf/2304.04541.pdf)]
-
-
-# 💻 Projects
-
-**O1 Journey**  [[Github](https://github.com/GAIR-NLP/O1-Journey)]
-
-💡 **An exploration of "deep thinking" abilities of o1/o3-like AI models.**
-
-- **O1 Replication Journey – Part 3: Inference-time Scaling for Medical Reasoning**
-  
-  Zhongzhen Huang\*, Gui Geng\*, Shengyi Hua\*, **Zhen Huang**\*, Haoyang Zou\*, Shaoting Zhang†, Pengfei Liu†, Xiaofan Zhang†
-  
-  *arXiv preprint. 2025.*
-  
-  [[Paper](https://arxiv.org/pdf/2501.06458)][[Featured by AK](https://x.com/_akhaliq/status/1879021571870007669)][[ScienceAI](https://mp.weixin.qq.com/s/-e3V9TwToGK71530icTeQg)]
-
-- **O1 Replication Journey – Part 2: Surpassing O1-preview through Simple Distillation (Big Progress or Bitter Lesson?)**
-  
-  **Zhen Huang**\*, Haoyang Zou\*, Xuefeng Li\*, Yixiu Liu\*, Yuxiang Zheng\*, Ethan Chern\*, Shijie Xia\*, Yiwei Qin, Weizhe Yuan, Pengfei Liu†
-  
-  *arXiv preprint. 2024.*
-  
-  [[Paper](https://arxiv.org/pdf/2411.16489)][[Featured by AK](https://x.com/_akhaliq/status/1861276718771601739)][[机器之心](https://mp.weixin.qq.com/s/bJc_hSrXsUgrzAfSxAoYoA)]
-
-- **O1 Replication Journey: A Strategic Progress Report – Part 1**
-  
-  Yiwei Qin\*, Xuefeng Li\*, Haoyang Zou\*, Yixiu Liu\*, Shijie Xia\*, **Zhen Huang**, Yixin Ye, Weizhe Yuan, Hector Liu, Yuanzhi Li, Pengfei Liu†
-  
-  *arXiv preprint. 2024.*
-  
-  [[Paper](https://arxiv.org/pdf/2410.18982)][[机器之心](https://mp.weixin.qq.com/s/ZO_Rv98OakPuBaZl9Tw5VA)]
 
 
 # 📖 Educations
