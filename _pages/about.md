@@ -20,12 +20,12 @@ redirect_from:
 I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan University, under the supervision of [Pengfei Liu](http://pfliu.com/) (primary advisor, affiliated with [GAIR Lab](https://plms.ai/) @ SJTU) and [Xipeng Qiu](https://xpqiu.github.io/) (affiliated with [FudanNLP](https://nlp.fudan.edu.cn/) @ FDU). I received my Bachelor's degree from the [School of Computer Science and Technology at Soochow University](https://scst.suda.edu.cn/), where I spent four wonderful and fantastic years.
 
 
-
 # 🔥 News
 
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by COLM 2025 on LLM reasoning - "LIMO: Less is More for Reasoning".
 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024 on LLM&LMM evaluation - "OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI".
+
 
 # 📝 Publications (Selected)
 
@@ -67,4 +67,5 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 # 🥥 Others
 
-- I'm a passionate football enthusiast. I'm a devoted **Chelsea** FC supporter, drawn to the club's legendary spirit—a testament to resilience, determination, and never giving up. Beyond the club itself, I'm an ardent admirer of **José Mourinho**, whose distinctive personality and tactical genius(counter-attacking) have left an indelible mark on football.
+- ⚽️ I'm a passionate football enthusiast. I'm a devoted **Chelsea** FC supporter, drawn to the club's legendary spirit—a testament to resilience, determination, and never giving up. Beyond the club itself, I'm an ardent admirer of **José Mourinho**, whose distinctive personality and tactical genius(counter-attacking) have left an indelible mark on football.
+
