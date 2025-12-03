@@ -44,17 +44,27 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
   
   **Zhen Huang**, Zengzhi Wang, Shijie Xia, Xuefeng Li, Haoyang Zou, Ruijie Xu, Run-Ze Fan, Lyumanshan Ye, Ethan Chern, Yixin Ye, Yikai Zhang, Yuqing Yang, Ting Wu, Binjie Wang, Shichao Sun, Yang Xiao, Yiyuan Li, Fan Zhou, Steffi Chern, Yiwei Qin, Yan Ma, Jiadi Su, Yixiu Liu, Yuxiang Zheng, Shaoting Zhang†, Dahua Lin†, Yu Qiao†, Pengfei Liu†
   
-  ***NeurIPS 2024 Track Datasets and Benchmarks***
+  ***NeurIPS 2024***
   
   [[Paper](https://arxiv.org/pdf/2406.12753)][[Code](https://github.com/GAIR-NLP/OlympicArena)][[Homepage](https://gair-nlp.github.io/OlympicArena/)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/OlympicArena)][ [🤗 Competition](https://huggingface.co/spaces/GAIR/OlympicArenaSubmission)][[Featured by AK](https://x.com/_akhaliq/status/1803265217826107588)][[机器之心](https://mp.weixin.qq.com/s/M16i34Vejq9DruMvfYsOtA)][[量子位](https://mp.weixin.qq.com/s/bhm84ToAsFc1GrjWbqJMYg)]
 
 
-
 # 📖 Educations
+- *2025.09 - 2030.06 (Expected)*, Ph.D. in Computer Science and Technology, Fudan University, Shanghai, China
+  - Supervised by [Pengfei Liu](http://pfliu.com/) (primary advisor, affiliated with [GAIR Lab](https://plms.ai/) @ SJTU) and [Xipeng Qiu](https://xpqiu.github.io/) (affiliated with [FudanNLP](https://nlp.fudan.edu.cn/) @ FDU)
+  - Research focus: Large Language Models, Reasoning, and Evaluation
+
 - *2021.09 - 2025.07*, B.Eng. in Software Engineering, Soochow University, Suzhou, China
   - GPA: 4.0/4.0, Ranking: 1/95
   - I conduct research on data mining and recommender systems under the supervision of [Pengpeng Zhao](https://web.suda.edu.cn/ppzhao/) during my time at [ADALab](https://ada.suda.edu.cn/), which is founded by Prof. [Xiaofang Zhou](https://seng.hkust.edu.hk/about/people/faculty/xiaofang-zhou) (the current head of the Computer Science department at HKUST).
 
+
+
 # 🌐 Services
 
-- Reviewer: NeurIPS 2025
+- Reviewer: NeurIPS 2025, ICLR 2026
+
+
+# 🥥 Others
+
+- I'm a passionate football enthusiast. I'm a devoted **Chelsea** FC supporter, drawn to the club's legendary spirit—a testament to resilience, determination, and never giving up. Beyond the club itself, I'm an ardent admirer of **José Mourinho**, whose distinctive personality and tactical genius(counter-attacking) have left an indelible mark on football.
