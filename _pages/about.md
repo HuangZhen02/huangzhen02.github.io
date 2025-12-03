@@ -51,7 +51,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 # 📖 Educations
 - *2025.09 - 2030.06 (Expected)*, Ph.D. in Computer Science and Technology, Fudan University, Shanghai, China
-  - Supervised by [Pengfei Liu](http://pfliu.com/) (primary advisor, affiliated with [GAIR Lab](https://plms.ai/) @ SJTU) and [Xipeng Qiu](https://xpqiu.github.io/) (affiliated with [FudanNLP](https://nlp.fudan.edu.cn/) @ FDU)
+  - Official Advisor: Xipeng Qiu
   - Research focus: Large Language Models, Reasoning, and Evaluation
 
 - *2021.09 - 2025.07*, B.Eng. in Software Engineering, Soochow University, Suzhou, China
@@ -65,7 +65,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 - Reviewer: NeurIPS 2025, ICLR 2026
 
 
-# 🥥 Others
+# 🥥 Misc
 
 - ⚽️ I'm a passionate football enthusiast. I'm a devoted **Chelsea** FC supporter, drawn to the club's legendary spirit—a testament to resilience, determination, and never giving up. Beyond the club itself, I'm an ardent admirer of **José Mourinho**, whose distinctive personality and tactical genius(counter-attacking) have left an indelible mark on football.
 
