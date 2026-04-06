@@ -39,7 +39,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
   
   ***ACL 2026 (main)***
   
-  [[Paper](https://arxiv.org/pdf/2602.07824)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Models (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Models (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
+  [[Paper](https://arxiv.org/pdf/2602.07824)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
 
 
 
