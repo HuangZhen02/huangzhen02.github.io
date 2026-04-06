@@ -22,6 +22,8 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 # 🔥 News
 
+- *2026.04*: &nbsp;🎉🎉 One paper accepted by ACL 2026 (main) on LLM Pretraining - "Unlocking the Value of Scientific Data for Pre-training".
+
 - *2025.07*: &nbsp;🎉🎉 One paper accepted by COLM 2025 on LLM reasoning - "LIMO: Less is More for Reasoning".
 
 - *2024.09*: &nbsp;🎉🎉 One paper accepted by NeurIPS 2024 on LLM&LMM evaluation - "OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI".
@@ -30,6 +32,16 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 # 📝 Publications (Selected)
 
 ( * : equal contribution,   † :  corresponding author )
+
+- **Unlocking the Value of Scientific Data for Pre-training**
+  
+  Yiwei Qin\*, **Zhen Huang**\*, Tiantian Mi\*, Weiye Si, Qipeng Guo, Siyuan Feng, Pengfei Liu†
+  
+  ***ACL 2026 (main)***
+  
+  [[Paper](https://arxiv.org/pdf/2602.07824)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Models (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Models (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
+
+
 
 - **LIMO: Less is More for Reasoning**
   
@@ -62,10 +74,9 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 # 🌐 Services
 
-- Reviewer: NeurIPS 2025, ICLR 2026
+- Reviewer: NeurIPS 2025, ICLR 2026, ICML 2026
 
 
 # 🥥 Misc
 
 - ⚽️ I'm a passionate football enthusiast. I'm a devoted **Chelsea** FC supporter, drawn to the club's legendary spirit—a testament to resilience, determination, and never giving up. Beyond the club itself, I'm an ardent admirer of **José Mourinho**, whose distinctive personality and tactical genius (counter-attacking) have left an indelible mark on football.
-
