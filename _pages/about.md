@@ -63,8 +63,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 # 📖 Educations
 - *2025.09 - 2030.06 (Expected)*, Ph.D. in Computer Science and Technology, Fudan University, Shanghai, China
-  - Official Advisor: [Xipeng Qiu](https://xpqiu.github.io/)
-  - Research focus: Large Language Models, Reasoning, and Evaluation
+  - Research focus: Large Language Models
 
 - *2021.09 - 2025.07*, B.Eng. in Software Engineering, Soochow University, Suzhou, China
   - GPA: 4.0/4.0, Ranking: 1/95
