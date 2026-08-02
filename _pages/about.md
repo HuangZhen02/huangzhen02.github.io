@@ -43,13 +43,13 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 ( * : equal contribution,   † :  corresponding author )
 
-- **Unlocking the Value of Scientific Data for Pre-training**
+- **SciPedia: Unlocking the Value of Scientific Data for Pre-training**
   
   Yiwei Qin\*, **Zhen Huang**\*, Tiantian Mi\*, Weiye Si, Qipeng Guo, Siyuan Feng, Pengfei Liu†
   
   ***ACL 2026 (main)***
   
-  [[Paper](https://arxiv.org/pdf/2602.07824)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
+  [[Paper](https://aclanthology.org/2026.acl-long.2181.pdf)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
 
 
 
@@ -76,7 +76,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
 
 ( * : equal contribution,   † :  corresponding author )
 
-- **daVinci-Dev: Agent-native Mid-training for Software Engineering**
+- **DaVinci-Dev: Agent-native Mid-training for Software Engineering**
   
   Ji Zeng, Dayuan Fu, Tiantian Mi, Yumin Zhuang, Yaxing Huang, Xuefeng Li, Lyumanshan Ye, Muhang Xie, Qishuo Hua, **Zhen Huang**, Mohan Jiang, Hanning Wang, Jifan Lin, Yang Xiao, Jie Sun, Yunze Wu, Pengfei Liu†
   
@@ -85,13 +85,13 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a first-year Ph.D. student at Fudan Un
   [[Paper](https://arxiv.org/pdf/2601.18418)][[Code](https://github.com/GAIR-NLP/daVinci-Dev)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/daVinci-Dev)][[🤗 Model (32B)](https://huggingface.co/GAIR/daVinci-Dev-32B)][[🤗 Model (72B)](https://huggingface.co/GAIR/daVinci-Dev-72B)]
 
 
-- **Unlocking the Value of Scientific Data for Pre-training**
+- **SciPedia: Unlocking the Value of Scientific Data for Pre-training**
   
   Yiwei Qin\*, **Zhen Huang**\*, Tiantian Mi\*, Weiye Si, Qipeng Guo, Siyuan Feng, Pengfei Liu†
   
   ***ACL 2026 (main)***
   
-  [[Paper](https://arxiv.org/pdf/2602.07824)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
+  [[Paper](https://aclanthology.org/2026.acl-long.2181.pdf)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
 
 
 - **InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research**
