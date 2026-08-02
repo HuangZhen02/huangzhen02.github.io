@@ -118,6 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
+      {% if author.alphaxiv %}
+        <li><a href="{{ author.alphaxiv }}"><img src="images/alphaxiv-logo.png" class="sidebar-logo" alt="" aria-hidden="true"> alphaXiv</a></li>
+      {% endif %}
     </ul>
       <div class="author__urls_sm">
       {% if author.uri %}
@@ -212,6 +215,9 @@
       {% endif %}
       {% if author.wikipedia %}
         <a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.alphaxiv %}
+        <a href="{{ author.alphaxiv }}"><img src="images/alphaxiv-logo.png" class="sidebar-logo" alt="alphaXiv"></a>
       {% endif %}
     </div>
   </div>
