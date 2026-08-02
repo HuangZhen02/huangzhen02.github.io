@@ -117,17 +117,18 @@ h1:before, .anchor:before {
 }
 
 /* Sidebar link icon supplied as an image (no Font Awesome glyph available).
-   Width matches fa-fw's 1.25em so labels stay aligned with the other links. */
-.sidebar-logo {
+   Width matches fa-fw's 1.25em so labels stay aligned with the other links.
+   Scoped under .sidebar to outrank the theme's `.sidebar img { width: 100% }`. */
+.sidebar .sidebar-logo {
     display: inline-block;
     width: 1.25em;
     height: 1em;
     object-fit: contain;
     vertical-align: -0.15em;
-    text-align: center;
 }
 
-/* Selected / All publications tabs (CSS-only, driven by hidden radios) */.pub-tabs {
+/* Selected / All publications tabs (CSS-only, driven by hidden radios) */
+.pub-tabs {
     > input[type="radio"] {
         position: absolute;
         opacity: 0;
