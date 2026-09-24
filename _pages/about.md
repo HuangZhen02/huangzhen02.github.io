@@ -51,7 +51,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
 
   [[Paper](https://arxiv.org/abs/2607.24717)][[Code](https://github.com/GAIR-NLP/DataOrchestra)]
 
-  <p class="pub-summary">A learned orchestrator tailors data curation to each pretraining example, improving data quality with less processing compute.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> A learned orchestrator tailors data curation to each pretraining example, improving data quality with less processing compute.</p>
 
 
 - **SciPedia: Unlocking the Value of Scientific Data for Pre-training**
@@ -62,7 +62,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://aclanthology.org/2026.acl-long.2181.pdf)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
 
-  <p class="pub-summary">SciPedia is a 900B-token scientific corpus enriched through cleaning and pedagogical augmentation for more effective pretraining.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> SciPedia is a 900B-token scientific corpus enriched through cleaning and pedagogical augmentation for more effective pretraining.</p>
 
 
 
@@ -74,7 +74,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://arxiv.org/pdf/2502.03387)][[Code](https://github.com/GAIR-NLP/LIMO)][[Model](https://huggingface.co/GAIR/LIMO)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/LIMO)][[Featured by AK](https://x.com/_akhaliq/status/1887372529112686810)][[机器之心](https://mp.weixin.qq.com/s/c62TWyepruRYf_1xHFKw4g)][[Talk (Chinese)](https://www.bilibili.com/video/BV1y3PeeMEmq/?share_source=copy_web&vd_source=18acb84f1f430e0cde1dfee88e7b1879)]
 
-  <p class="pub-summary">Strong mathematical reasoning can emerge from supervised fine-tuning on a small set of carefully curated examples.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> Strong mathematical reasoning can emerge from supervised fine-tuning on a small set of carefully curated examples.</p>
   
 
 - **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**
@@ -85,7 +85,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://arxiv.org/pdf/2406.12753)][[Code](https://github.com/GAIR-NLP/OlympicArena)][[Homepage](https://gair-nlp.github.io/OlympicArena/)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/OlympicArena)][ [🤗 Competition](https://huggingface.co/spaces/GAIR/OlympicArenaSubmission)][[Featured by AK](https://x.com/_akhaliq/status/1803265217826107588)][[机器之心](https://mp.weixin.qq.com/s/M16i34Vejq9DruMvfYsOtA)][[量子位](https://mp.weixin.qq.com/s/bhm84ToAsFc1GrjWbqJMYg)]
 
-  <p class="pub-summary">OlympicArena is a multimodal reasoning benchmark with 11,163 bilingual Olympiad problems across seven disciplines.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> OlympicArena is a multimodal reasoning benchmark with 11,163 bilingual Olympiad problems across seven disciplines.</p>
 
 </div>
 
@@ -101,7 +101,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
 
   [[Paper](https://arxiv.org/abs/2607.24717)][[Code](https://github.com/GAIR-NLP/DataOrchestra)]
 
-  <p class="pub-summary">A learned orchestrator tailors data curation to each pretraining example, improving data quality with less processing compute.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> A learned orchestrator tailors data curation to each pretraining example, improving data quality with less processing compute.</p>
 
 
 - **AdaCodec: A Predictive Visual Code for Video MLLMs**
@@ -112,7 +112,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
 
   [[Paper](https://arxiv.org/abs/2606.02569)][[Code](https://github.com/HaowenHou/AdaCodec)]
 
-  <p class="pub-summary">Compact representations of inter-frame changes reduce redundant visual tokens and improve video understanding.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> Compact representations of inter-frame changes reduce redundant visual tokens and improve video understanding.</p>
 
 
 - **DaVinci-Dev: Agent-native Mid-training for Software Engineering**
@@ -123,7 +123,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://arxiv.org/pdf/2601.18418)][[Code](https://github.com/GAIR-NLP/daVinci-Dev)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/daVinci-Dev)][[🤗 Model (32B)](https://huggingface.co/GAIR/daVinci-Dev-32B)][[🤗 Model (72B)](https://huggingface.co/GAIR/daVinci-Dev-72B)]
 
-  <p class="pub-summary">Agent-native mid-training uses realistic development trajectories to strengthen software agents’ repository-level problem solving.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> Agent-native mid-training uses realistic development trajectories to strengthen software agents’ repository-level problem solving.</p>
 
 
 - **SciPedia: Unlocking the Value of Scientific Data for Pre-training**
@@ -134,7 +134,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://aclanthology.org/2026.acl-long.2181.pdf)][[Code](https://github.com/GAIR-NLP/Data-Darwinism)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/Darwin-Science)][[🤗 Model (3B)](https://huggingface.co/GAIR/daVinci-origin-3B)][[🤗 Model (7B)](https://huggingface.co/GAIR/daVinci-origin-7B)][[🤗 Benchmark](https://huggingface.co/datasets/GAIR/Darwin-Science-Eval)]
 
-  <p class="pub-summary">SciPedia is a 900B-token scientific corpus enriched through cleaning and pedagogical augmentation for more effective pretraining.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> SciPedia is a 900B-token scientific corpus enriched through cleaning and pedagogical augmentation for more effective pretraining.</p>
 
 
 - **InnovatorBench: Evaluating Agents' Ability to Conduct Innovative LLM Research**
@@ -145,7 +145,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://arxiv.org/pdf/2510.27598)][[Code](https://github.com/GAIR-NLP/InnovatorBench)][[🤗 Dataset](https://huggingface.co/datasets/GAIR/InnovatorBench)][[OpenReview](https://openreview.net/forum?id=w8rZ2Jd6Jo)]
 
-  <p class="pub-summary">InnovatorBench evaluates the full LLM research workflow across 20 tasks in an executable research environment.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> InnovatorBench evaluates the full LLM research workflow across 20 tasks in an executable research environment.</p>
 
 
 - **LIMO: Less is More for Reasoning**
@@ -156,7 +156,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://arxiv.org/pdf/2502.03387)][[Code](https://github.com/GAIR-NLP/LIMO)][[Model](https://huggingface.co/GAIR/LIMO)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/LIMO)][[Featured by AK](https://x.com/_akhaliq/status/1887372529112686810)][[机器之心](https://mp.weixin.qq.com/s/c62TWyepruRYf_1xHFKw4g)][[Talk (Chinese)](https://www.bilibili.com/video/BV1y3PeeMEmq/?share_source=copy_web&vd_source=18acb84f1f430e0cde1dfee88e7b1879)]
 
-  <p class="pub-summary">Strong mathematical reasoning can emerge from supervised fine-tuning on a small set of carefully curated examples.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> Strong mathematical reasoning can emerge from supervised fine-tuning on a small set of carefully curated examples.</p>
 
 
 - **OlympicArena: Benchmarking Multi-discipline Cognitive Reasoning for Superintelligent AI**
@@ -167,7 +167,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
   
   [[Paper](https://arxiv.org/pdf/2406.12753)][[Code](https://github.com/GAIR-NLP/OlympicArena)][[Homepage](https://gair-nlp.github.io/OlympicArena/)][[🤗 Datasets](https://huggingface.co/datasets/GAIR/OlympicArena)][ [🤗 Competition](https://huggingface.co/spaces/GAIR/OlympicArenaSubmission)][[Featured by AK](https://x.com/_akhaliq/status/1803265217826107588)][[机器之心](https://mp.weixin.qq.com/s/M16i34Vejq9DruMvfYsOtA)][[量子位](https://mp.weixin.qq.com/s/bhm84ToAsFc1GrjWbqJMYg)]
 
-  <p class="pub-summary">OlympicArena is a multimodal reasoning benchmark with 11,163 bilingual Olympiad problems across seven disciplines.</p>
+  <p class="pub-summary"><span class="pub-summary-label">Summary:</span> OlympicArena is a multimodal reasoning benchmark with 11,163 bilingual Olympiad problems across seven disciplines.</p>
 
 </div>
 </div>

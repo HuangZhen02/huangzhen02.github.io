@@ -184,14 +184,14 @@ h1:before, .anchor:before {
 
         .pub-summary {
             margin: .9em 0 0;
-            padding: .75em 1em;
-            border-left: 3px solid #7895bb;
-            border-radius: 0 6px 6px 0;
-            background: #f3f6fa;
-            color: #46566c;
+            color: #5b6571;
             font-family: $serif;
             font-size: 1em;
             line-height: 1.65;
+
+            .pub-summary-label {
+                color: #456588;
+            }
         }
     }
 
