@@ -54,6 +54,17 @@ AcadHomepage
 
 ## 本地调试
 
+macOS 可使用独立的 Homebrew Ruby 3.3 安装依赖：
+
+```bash
+brew install ruby@3.3
+export PATH="$(brew --prefix ruby@3.3)/bin:$PATH"
+gem install bundler -v 2.7.2 --no-document
+SDKROOT="$(xcrun --show-sdk-path)" bundle install
+```
+
+以上命令在项目根目录运行。`run_server.sh` 会自动使用已安装的 Homebrew Ruby 3.3，无需修改系统 Ruby 或全局 shell 配置。后续只需运行 `bash run_server.sh`；按 `Ctrl+C` 停止预览，也可用 `bash run_server.sh --port 4001` 更换端口。
+
 1. 使用`git clone`将本项目克隆到本地。
 1. 安装Jekyll的构建环境，包括`Ruby`、`RubyGems`、`GCC`和`Make`。可参考[该教程](https://jekyllrb.com/docs/installation/#requirements)。
 1. 运行 `bash run_server.sh` 来启动Jekyll实时重载服务器。

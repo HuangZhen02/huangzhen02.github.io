@@ -164,6 +164,35 @@ h1:before, .anchor:before {
         > :first-child {
             margin-top: 0;
         }
+
+        > ul {
+            list-style: none;
+            padding-left: 0;
+
+            > li {
+                margin-bottom: 1.5em;
+                padding-bottom: 1.5em;
+                border-bottom: 1px solid $border-color;
+
+                &:last-child {
+                    margin-bottom: 0;
+                    padding-bottom: 0;
+                    border-bottom: 0;
+                }
+            }
+        }
+
+        .pub-summary {
+            margin: .9em 0 0;
+            padding: .75em 1em;
+            border-left: 3px solid #7895bb;
+            border-radius: 0 6px 6px 0;
+            background: #f3f6fa;
+            color: #46566c;
+            font-family: $serif;
+            font-size: 1em;
+            line-height: 1.65;
+        }
     }
 
     #pub-tab-selected:checked ~ .pub-tabs-nav label[for="pub-tab-selected"],
