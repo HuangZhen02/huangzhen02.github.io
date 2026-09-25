@@ -49,7 +49,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
 
   ***arXiv 2026***
 
-  [[Paper](https://arxiv.org/abs/2607.24717)][[Code](https://github.com/GAIR-NLP/DataOrchestra)]
+  [[Paper](https://arxiv.org/pdf/2607.24717)][[Code](https://github.com/GAIR-NLP/DataOrchestra)]
 
   <p class="pub-summary"><span class="pub-summary-label">Summary:</span> A learned orchestrator tailors data curation to each pretraining example, improving data quality with less processing compute.</p>
 
@@ -99,7 +99,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
 
   ***arXiv 2026***
 
-  [[Paper](https://arxiv.org/abs/2607.24717)][[Code](https://github.com/GAIR-NLP/DataOrchestra)]
+  [[Paper](https://arxiv.org/pdf/2607.24717)][[Code](https://github.com/GAIR-NLP/DataOrchestra)]
 
   <p class="pub-summary"><span class="pub-summary-label">Summary:</span> A learned orchestrator tailors data curation to each pretraining example, improving data quality with less processing compute.</p>
 
@@ -110,7 +110,7 @@ I'm **Zhen Huang ("黄臻" in Chinese)**, a second-year Ph.D. student at Fudan U
 
   ***NeurIPS 2026 (spotlight)***
 
-  [[Paper](https://arxiv.org/abs/2606.02569)][[Code](https://github.com/HaowenHou/AdaCodec)]
+  [[Paper](https://arxiv.org/pdf/2606.02569)][[Code](https://github.com/HaowenHou/AdaCodec)]
 
   <p class="pub-summary"><span class="pub-summary-label">Summary:</span> Compact representations of inter-frame changes reduce redundant visual tokens and improve video understanding.</p>
 
